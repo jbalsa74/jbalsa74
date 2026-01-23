@@ -1,4 +1,4 @@
-![My Profile Banner]{https://github.com/jbalsa74/Elective-Laboratories/blob/c0b7b813c9357f14ff6df16dbc2feec4fccfcd00/Laboratory%202/branding/banner/Banner.png}
+![Profile Banner](https://raw.githubusercontent.com/jbalsa74/Elective-Laboratories/main/Laboratory%202/branding/banner/Banner.png)
 
 
 # 💫 About Me:
