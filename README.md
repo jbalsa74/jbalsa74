@@ -1,4 +1,4 @@
-![]{https://github.com/jbalsa74/Elective-Laboratories/blob/main/Laboratory%202/branding/banner/Banner.png}
+![]{https://github.com/jbalsa74/Elective-Laboratories/blob/c0b7b813c9357f14ff6df16dbc2feec4fccfcd00/Laboratory%202/branding/banner/Banner.png}
 # 💫 About Me:
 ✍ I’m currently studying at Ateneo de Davao University<br>👯 I’m looking to collaborate on creative tech projects<br>💻 I’m currently learning JavaScript<br>💬 Ask me about creative ideas in tech<br>🎧ྀི♪⋆.✮ Fun fact: listening to music is my hobby
 
