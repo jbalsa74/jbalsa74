@@ -1,15 +1,24 @@
 ![Profile Banner](https://raw.githubusercontent.com/jbalsa74/Elective-Laboratories/main/Laboratory%202/branding/banner/Banner.png)
 
+# Joel Patrick Balsa <img src="https://raw.githubusercontent.com/jbalsa74/Elective-Laboratories/main/Laboratory%202/branding/logo/logo.png" width="40" height="40">
+### "Aspiring UI Designer | Creating Simple, Aesthetic Solutions"
+
+---
 
 # 💫 About Me:
-✍ I’m currently studying at Ateneo de Davao University<br>👯 I’m looking to collaborate on creative tech projects<br>💻 I’m currently learning JavaScript<br>💬 Ask me about creative ideas in tech<br>🎧ྀི♪⋆.✮ Fun fact: listening to music is my hobby
+✍ I am a creative student at Ateneo de Davao University focused on bringing digital dreams to life with a splash of colors. My goal is to design simple, aesthetic solutions that bridge the gap between imagination and digital reality.
 
+👯 I’m looking to collaborate on creative tech projects  
+💻 I’m currently learning JavaScript  
+💬 Ask me about creative ideas in tech  
+🎧ྀི♪⋆.✮ Fun fact: listening to music is my hobby
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jbalsa@addu.edu.ph) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jbalsa74&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jbalsa74&theme=ambient_gradient&hide_border=false)<br/>
@@ -17,4 +26,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jbalsa74&icon=0&color=0)](https://visitcount.itsvg.in)
-
